@@ -1,0 +1,15 @@
+{
+    "name": "test/project",
+    "description": "propel testing for many database",
+    "require": {
+        "propel/propel": "~2.0@dev"
+    },
+    "license": "1",
+    "authors": [
+        {
+            "name": "hsasan harb",
+            "email": "has@fxgrow.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
